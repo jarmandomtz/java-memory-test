@@ -42,13 +42,24 @@ Greetings from Spring Boot!
   - Open MemoryAnalyzer, and open URL file, select Leaks and get analysis
 
 ## Images section
+---
+IntelliJ
 
 ![IntelliJ](imgs/intellij01.png)
 ![IntelliJ](imgs/intellij02.png)
 
+---
+Memory Analyzer
+
 ![MemoryAnalyzer](imgs/memoryanalyzer01.png)
 
+---
+JMetter
+
 ![JMetter](imgs/jmeter01.png)
+
+---
+VisualVM
 
 ![VisualVM](imgs/visualvm01.png)
 ![VisualVM](imgs/visualvm02.png)
