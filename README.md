@@ -54,7 +54,7 @@ Memory Analyzer
 ![MemoryAnalyzer](imgs/memoryanalyzer01.png)
 
 ---
-JMetter
+JMeter
 
 ![JMetter](imgs/jmeter01.png)
 
