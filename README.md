@@ -1,7 +1,7 @@
 # Java Memory Test
 
 Tooling Test resume,
-- JVM, which ever you use for programming
+- JVM, which ever you use fbreakor programming
 - VisualVM, connects to JVM on runtime, facilitates,
   - Execute GC on specific
   - See Memory, CPU, Threads, Net consuming
@@ -51,7 +51,7 @@ IntelliJ
 ---
 Memory Analyzer
 
-![MemoryAnalyzer](imgs/memoryanalyzer01.png)
+![MemoryAnalyzer](imgs/memoryanalyzer01.png)break
 
 ---
 JMeter
